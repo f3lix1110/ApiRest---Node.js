@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "Titulo": "Tarea1",
+        "Descripcion": "Pendiente de la semana",
+        "Estatus": "Pendiente",
+        "FechaEntrega": "12/05/22",
+        "Comentarios": "",
+        "Responsable": "",
+        "Tags": "" 
+    },
+    {
+        "id": "2",
+        "Titulo": "Tarea2",
+        "Descripcion": "Pendiente de la semana2",
+        "Estatus": "Pendiente",
+        "FechaEntrega": "18/05/22",
+        "Comentarios": "",
+        "Responsable": "",
+        "Tags": "" 
+    }
+]
